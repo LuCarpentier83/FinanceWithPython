@@ -1,0 +1,17 @@
+# Data fetching
+yfinance
+
+# Data manipulation
+pandas==2.2.0
+numpy==1.26.4
+
+# Data visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Basic scientific computing
+scipy==1.12.0
+
+# For final checks and reports
+ta==0.11.0
+quantstats==0.0.62
